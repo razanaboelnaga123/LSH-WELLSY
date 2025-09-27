@@ -121,6 +121,3 @@ form{ display:flex; flex-direction:column; gap:16px; text-align:left; }
   padding:6px 0;
   text-align:left;
 }
-
-/* dashboard tweaks */
-.dashboard-card{ text-align:center; }
